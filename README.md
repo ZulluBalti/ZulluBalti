@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ZulluBalti
-- 👀 I’m interested in coding, linux
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me ...
-- 📧 Email me at ZulluBalti@gmail.com
+## Hi, I'm Zulqarnain 👋
 
-<!---
-ZulluBalti/ZulluBalti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer specializing in **MERN, Next.js, TypeScript, and AI-powered applications**. I build scalable web platforms, SaaS products, internal dashboards, and automation tools from concept to production.
+
+**Live Product:** [GChat — AI Chatbot SaaS](https://www.gchat.sk/) — OpenAI-powered chatbot platform for e-commerce and corporate websites, featuring a management dashboard, mobile applications, Selenium-based web crawling, and document ingestion pipelines.
+
+**Live Product:** [Wolf & Partners Inc.](https://login.wolfandpartnersinc.com/) — Client and administration platform for offshore company formation and management, including document handling, service management, payment workflows, onboarding, and customer support resources.
+
+Open to **part-time, full-time, and contract remote opportunities**.
+
+📧 **Email:** [zullubalti@gmail.com](mailto:zullubalti@gmail.com)
